@@ -1,0 +1,16 @@
+#pragma once
+#include "extract.h"
+
+int extract::extract()
+{}
+int extract::~extract()
+{}
+
+int extract::extract_raster_by_mask()
+{
+  int error_code =1;
+
+  
+  return error_code;
+  
+}
